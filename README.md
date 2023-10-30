@@ -1,4 +1,5 @@
-# 整理自己在rust上的学习所涉及到的git仓库
+# Organize the git repositories involved in own rust learning
+
 [big-title-for-rust-concurrency](https://github.com/weykon/big-title-for-rust-concurrency)  
 
 [rust-playground](https://github.com/weykon/rust-playground)  
